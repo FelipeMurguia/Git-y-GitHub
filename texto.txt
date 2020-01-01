@@ -1,8 +1,7 @@
-Esto es un título
+El tÃ­tulo
 
-Esto es un título centrado
+El tÃ­tulo centrado
 
-Aquí va un párrafo con negrita, cursiva, subrayado y colores.
-
+Aquï¿½ va un pï¿½rrafo con negrita, cursiva, subrayado y colores.
 
 Y esto de arriba es la foto de unas Suricatas.
