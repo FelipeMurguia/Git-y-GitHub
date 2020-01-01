@@ -1,6 +1,6 @@
-El título
+El título cambiado 2
 
-El título centrado
+El título centrado cambiado 2
 
 Aqu� va un p�rrafo con negrita, cursiva, subrayado y colores.
 
